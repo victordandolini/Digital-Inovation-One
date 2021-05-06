@@ -1,0 +1,12 @@
+#tittle, .subtittle, .post-tittle {
+    color: blue;
+}
+.tittle {
+ font-size: 18px;
+ font-style: italic;
+}
+.subtittle {
+    font-size: 12px;
+    font-style: italic;
+   }
+   
