@@ -1,3 +1,7 @@
+body {
+    background-color: darkgray;
+}
+
 #tittle, .subtittle, .post-tittle {
     color: blue;
 }
