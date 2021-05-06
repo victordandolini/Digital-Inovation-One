@@ -3,7 +3,7 @@ body {
 }
 
 #tittle, .subtittle, .post-tittle {
-    color: blue;
+    color: rgb(200, 255, 0);
 }
 .subtittle {
     font-size: 12px;
