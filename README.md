@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there! I have a degree in law and a postgraduate degree in public security management, competing for 6 years, but I have always been connected to technology, I have worked all my life with computer maintenance and I did electronics at IFSC. I have always believed that the future is technology and I think I can contribute and produce a lot, I am like a sponge wanting to absorb knowledge, I am looking for a learning opportunity. 👋
 <!--
 **victordandolini/victordandolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
