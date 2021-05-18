@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1>Portão de Entrada Nacional</h1>
+        Qual a sua Origem? <input type="name" name="pais" id="pais">
+        <input type="button" value="Verificar" onclick="verificar()">
+        <div id= 'res'>
+        </div>
+        <script>
+        function verificar() {
+            var pais1 = window.document.getElementById('pais')
+            var res = window.document.querySelector('div#res')
+            var vel = (pais1.value)
+    if (vel == 'Brasil'){
+    res.innerHTML = `<p>Você é Brasileiro</p>`
+    }
+    else {
+    res.innerHTML = `<p>Você é estrangeiro</p>`
+    }
+    
+    }
+        </script>
+    </body>
+</html>
